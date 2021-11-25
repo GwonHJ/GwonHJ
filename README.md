@@ -1,5 +1,7 @@
 ### Hi I'm HyeonJi Gwon 👋
 
+- I graduated from KNU, Electronic Engineering
+- Now, I am currently training at SSAFY(Samsung Software Academy for Youth) to become a SW Engineer.
 
 ### Github Stats
 
