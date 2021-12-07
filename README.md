@@ -3,7 +3,7 @@
 - I graduated from KNU, Electronic Engineering
 - I am currently training at SSAFY(Samsung Software Academy for Youth) to become a SW Engineer.
 
-### My Portpolio
+### My Portfolio
 
 https://lunar-eocursor-a55.notion.site/d7e4b88f874244c9bc4c0671fba1dae9
 
